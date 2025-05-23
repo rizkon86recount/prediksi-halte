@@ -6,3 +6,6 @@ venv/
 *.pyd
 *.ipynb
 node_modules/
+.DS_Store
+.git/
+*.log
